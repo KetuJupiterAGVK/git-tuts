@@ -1,0 +1,1 @@
+print("bhrama mode on ")
